@@ -1,2 +1,2 @@
 # twilioquest-art
-Pixel art produced by Kerrie Lake for TwilioQuesr
+Pixel art produced by Kerrie Lake for TwilioQuest
